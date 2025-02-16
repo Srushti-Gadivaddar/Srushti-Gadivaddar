@@ -1,4 +1,4 @@
-## Hi I'm Srushti Gadivaddar 👋
+## Hi👋 I'm Srushti Gadivaddar
 
 <!--
 **Srushti-Gadivaddar/Srushti-Gadivaddar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
